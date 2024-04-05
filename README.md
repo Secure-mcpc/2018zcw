@@ -1,9 +1,7 @@
 <html lang="zh-CN">
 <head>
   {% include theme:jekyll-theme-THEME-NAME param='value' param2='value' %}
-</head>
-<body>
-<style>
+	<style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -45,6 +43,9 @@
             text-align: center;
         }
 </style>
+</head>
+<body>
+
     <header>
         <h1>靖小2018级3班 毕业纪念</h1>
     </header>
