@@ -1,6 +1,6 @@
 <html lang="zh-CN">
 <head>
-	{% include theme: jekyll-theme-THEME-NAME %}
+  {% include file.ext param='value' param2='value' %}
 </head>
 <body>
 <style>
