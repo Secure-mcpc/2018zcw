@@ -84,9 +84,9 @@
     </div>
 
 <div>
-	<h2 id="yan">留言</h2>
+	<h2 id="yan">寄语与口头禅(斜体为口头禅）</h2>
  	<p><strong>赵常宏</strong></p><br>
-	<p><strong>张宇硕</strong></p><br>
+	<p><strong>张宇硕</strong>我是PVP大佬！</p><br>
  	<p><strong>杨文博</strong></p><br>
  	<p><strong>金姿含</strong></p><br>
 	<p><strong>冯跃</strong></p><br>
