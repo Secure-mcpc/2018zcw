@@ -86,43 +86,43 @@
 <div>
 	<h2 id="yan">寄语与口头禅<i>(斜体为口头禅）</i></h2>
  	<p><strong>赵常宏</strong></p><i>甚经</i><br>
-	<p><strong>张宇硕</strong></p><i>你再叫一个，再竖中指，把你中指切了</i><br>
- 	<p><strong>杨文博</strong></p><i></i><br>
- 	<p><strong>金姿含</strong></p><i></i><br>
-	<p><strong>冯跃</strong></p><i></i><br>
- 	<p><strong>王书瑶</strong></p><i></i><br>
+	<p><strong>张宇硕</strong>我是PVP大佬！</p><i>你再叫一个，再竖中指，把你中指切了</i><br>
+ 	<p><strong>杨文博</strong></p><i>你们俩真是个卧龙凤雏</i><br>
+ 	<p><strong>金姿含</strong></p><i>我推晚宁天下第一！！！！！</i><br>
+	<p><strong>冯跃</strong></p><i>五图当老鼠，有父还有母</i><br>
+ 	<p><strong>王书瑶</strong></p><i>你没逝吧？</i><br>
  	<p><strong>徐洋</strong></p><i>你什么意思呀！</i><br>
+	<p><strong>冯悦桐</strong></p><i>你妈妈喜欢吃什么</i><br>
 	<p><strong>李梓冉</strong></p><i>你↗有↗*↘吧~</i><br>
  	<p><strong>宋婉冰</strong></p><i>我推妹叔怎么了！我买周边怎么了？</i><br>
- 	<p><strong>张哲铭</strong></p><i></i><br>
-	<p><strong>杨明雪</strong></p><i>我要三科成绩好！！！</i><br>
-  	<p><strong>杨依辰</strong></p><i>一万暴击</i><br>
-	<p><strong>牛艺璇</strong></p><i></i><br>
- 	<p><strong>张思琪</strong></p><i></i><br>
- 	<p><strong>张恒瑞</strong></p><i></i><br>
-	<p><strong>马钰骁</strong></p><i></i><br>
- 	<p><strong>王艺霏</strong></p><i></i><br>
+ 	<p><strong>张哲铭</strong></p><i>不是小猫牢弟你有啥实力呀！</i><br>
+	<p><strong>杨明雪</strong>落魄谷中寒风吹 春秋蝉鸣少年归 荡魂山处石人泪 定仙游走魔向北</p><i>我要三科成绩好！！！</i><br>
+  	<p><strong>杨依辰</strong>祝未来的你们前途似海，向自己的梦想去努力！加油！少年！</p><i>一万暴击</i><br>
+	<p><strong>牛艺璇</strong>前程似锦，有缘再见~</p><i>神井饼</i><br>
+ 	<p><strong>张思琪</strong>我是个吗喽</p><i>我勒儿个豆啊~~~</i><br>
+ 	<p><strong>张恒瑞</strong></p><i>我去你大爷的</i><br>
+	<p><strong>马钰骁</strong></p><i>我勒个豆啊</i><br>
+ 	<p><strong>王艺霏</strong></p><i>我*</i><br>
  	<p><strong>单过</strong></p><i>我*你*</i><br>
 	<p><strong>吁磊</strong></p><i>你懂啥！！</i><br>
- 	<p><strong>王雨欣</strong></p><i>什金</i><br>
- 	<p><strong>白晗钰</strong></p><i>我勒个豆</i><br>
-	<p><strong>陈梓晗</strong></p><i></i我起呗><br>
+ 	<p><strong>王雨欣</strong>花有重开日，人无在少年</p><i>什金</i><br>
+ 	<p><strong>白晗钰</strong>世界之大，为何我们相遇？希望多年以后，你们不会忘记我。</p><i>我勒个豆</i><br>
+	<p><strong>陈梓晗</strong></p><i>我起呗</i><br>
   	<p><strong>刘宇栋</strong></p><i>哎呦我，直接给我**</i><br>
 	<p><strong>申雨萱</strong></p><i>？芙宁娜怎么你了？园丁怎么你了？我推芙宁娜园丁怎么你了？就你会叫？什么麻子姐别叫了大哥</i><br>
- 	<p><strong>刘可昕</strong></p><i></i><br>
- 	<p><strong>俞帅君</strong></p><i>我*你*！祝你身体健康，万事如意（我**你*了个**的，你全家**）</i><br>
-	<p><strong>谢雨彤</strong></p><i></i><br>
+ 	<p><strong>刘可昕</strong></p><i>饿死了~</i><br>
+ 	<p><strong>俞帅君</strong>努力学习努力向上，做最好的自己</p><i>我*你*！祝你身体健康，万事如意（我**你*了个**的，你全家**）</i><br>
+	<p><strong>谢雨彤</strong></p><i>我担岩哥票房大麦、一路长虹！岩居川观百年好合！mini好可爱~~~</i><br>
  	<p><strong>田奕绫</strong></p><i>我推天下第一！！！</i><br>
  	<p><strong>徐可馨</strong></p><i></i><br>
-	<p><strong>张贯桀</strong></p><i></i><br>
- 	<p><strong>冯旭东</strong></p><i>不（布）是！</i><br>
+	<p><strong>张贯桀</strong>In new school,take good care of yourseif.（在新的学校，照顾好自己。）</p><i>What's up?</i><br>
+ 	<p><strong>冯旭东</strong>时光不老 我们不散</p><i>不（布）是！</i><br>
  	<p><strong>王雅涵</strong></p><i>你有*啊！</i><br>
-	<p><strong>毛浩晨</strong></p><i></i><br>
+	<p><strong>毛浩晨</strong>我是秦屎皇，V我50，让<button><i>徐洋？</i></button>当厕所将军，占领茅坑，保卫厕所。</p><i>我是秦屎皇，V我50，当我占领六国，我封你为铲屎工，清理茅坑。</i><br>
   	<p><strong>白玉</strong></p><i>莫？</i><br>
 	<p><strong>张宸宇</strong></p><i>不是牢弟你有啥实力啊！别叫了 我直接就**</i><br>
 	<p><strong>彭钰涵</strong></p><i>私宅</i><br>
- 	<p><strong>李立家</strong></p><i></i><br>
- 	<p><strong>张恒瑞</strong></p><i></i><br>
+ 	<p><strong>李立家</strong></p><i>*</i><br>
 
 </div>
 </main>
