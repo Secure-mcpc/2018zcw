@@ -122,8 +122,6 @@
 	<p><strong>彭钰涵</strong></p><br><i>私宅</i><br>
  	<p><strong>李立家</strong></p><br><i>*</i>
 
-</div>
-</main>
     <footer>
         © 2024 毕2018zcw<br>开发者 冯悦桐<br>留言收集 赵常宏<br>口头禅收集 冯旭东<br>人员统计表 金姿含<br>感谢全体同学配合留言与口头禅的收集工作！
     </footer>
