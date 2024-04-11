@@ -56,7 +56,7 @@
         <a href="#list">班级成员</a>
 	<a href="#yan">留言</a>
     </nav>
-    <main>
+<main>
         <h2 id="home">首页</h2>
 <div>
     <style>
@@ -120,7 +120,7 @@
   	<p><strong>白玉</strong></p><br><i>莫？</i><br>
 	<p><strong>张宸宇</strong></p><br><i>不是牢弟你有啥实力啊！别叫了 我直接就**</i><br>
 	<p><strong>彭钰涵</strong></p><br><i>私宅</i><br>
- 	<p><strong>李立家</strong></p><br><i>*</i><br>
+ 	<p><strong>李立家</strong></p><br><i>*</i>
 
 </div>
 </main>
