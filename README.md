@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #FF6699;
+            background-color: #FFFFCC;
         }
         header {
             background-color: #FF9933;
@@ -27,7 +27,7 @@
             padding: 5px 10px;
         }
         nav a:hover {
-            background-color: #FFFF33;
+            background-color: #FF6633;
         }
         main {
             padding: 20px;
