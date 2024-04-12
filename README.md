@@ -8,16 +8,16 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background-color: #FF6699;
         }
         header {
-            background-color: #333;
-            color: #fff;
+            background-color: #FF9933;
+            color: #6633FF;
             padding: 20px;
             text-align: center;
         }
         nav {
-            background-color: #666;
+            background-color: #FF6633;
             padding: 10px;
             text-align: center;
         }
@@ -27,7 +27,7 @@
             padding: 5px 10px;
         }
         nav a:hover {
-            background-color: #999;
+            background-color: #FFFF33;
         }
         main {
             padding: 20px;
@@ -39,7 +39,7 @@
             margin: 0 auto;
         }
         footer {
-            background-color: #333;
+            background-color: #FF9933;
             color: #fff;
             padding: 10px;
             text-align: center;
@@ -123,5 +123,5 @@
  	<p><strong>李立家：</strong></p><br><i>*</i>
 
     <footer>
-        © 2024 毕2018zcw<br>开发者 冯悦桐<br>留言收集 赵常宏<br>口头禅收集 冯旭东<br>人员统计表 金姿含<br>感谢全体同学配合留言与口头禅的收集工作！
+        © 2024 毕2018zcw<br>开发者 冯悦桐<br>留言收集 赵常宏<br>口头禅收集 冯旭东<br>人员统计表 金姿含<br>感谢全体同学配合与收集工作！
     </footer>
