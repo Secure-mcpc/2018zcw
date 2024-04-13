@@ -49,7 +49,7 @@
 <body>
 
     <header>
-        <h1>靖小2018级3班 毕业纪念</h1>
+        <h1 id="top">靖小2018级3班 毕业纪念</h1>
     </header>
     <nav>
         <a href="#home">首页</a>
@@ -116,7 +116,7 @@
 	<p><strong>张贯桀：</strong>In new school,take good care of yourseif.（在新的学校，照顾好自己。）</p><br><i>What's up?</i><br>
  	<p><strong>冯旭东：</strong>时光不老 我们不散</p><br><i>不（布）是！</i><br>
  	<p><strong>王雅涵：</strong>祝6年3班身体健康，万事如意，天天开心，心想事成。</p><br><i>你有*啊！</i><br>
-	<p><strong>毛浩晨：</strong>我是秦屎皇，V我50，让<button><i>徐洋？</i></button>当厕所将军，占领茅坑，保卫厕所。</p><br><i>我是秦屎皇，V我50，当我占领六国，我封你为铲屎工，清理茅坑。</i><br>
+	<p><strong>毛浩晨：</strong>我是秦屎皇，V我50，让<a href="#top"><i>徐洋？</i></a>当厕所将军，占领茅坑，保卫厕所。</p><br><i>我是秦屎皇，V我50，当我占领六国，我封你为铲屎工，清理茅坑。</i><br>
   	<p><strong>白玉：</strong>满怀希望就会所向披靡</p><br><i>莫？</i><br>
 	<p><strong>张宸宇：</strong></p><br><i>不是牢弟你有啥实力啊！别叫了 我直接就**</i><br>
 	<p><strong>彭钰涵：</strong></p><br><i>私宅</i><br>
