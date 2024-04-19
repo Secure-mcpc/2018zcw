@@ -82,6 +82,12 @@
     </div>
 
 <div>
+	<style>
+	    footer {
+            color: #FF00FF;
+            padding: 10px;
+        }
+	</style>
 	<h2 id="yan">寄语与口头禅<i>(斜体为口头禅）</i></h2>
  	<p><strong>赵常宏：</strong>我们相识于盛夏 别于盛夏 不知以后何时再见 但要相信 分久必合 合久必分 愿你们都能所愿</p><br><i>甚经</i><br>
 	<p><strong>张宇硕：</strong>我是PVP大佬！</p><br><i>你再叫一个，再竖中指，把你中指切了</i><br>
@@ -119,8 +125,8 @@
 	<p><strong>毛浩晨：</strong>我是秦屎皇，V我50，让<a href="#top"><i>徐洋？</i></a>当厕所将军，占领茅坑，保卫厕所。</p><br><i>我是秦屎皇，V我50，当我占领六国，我封你为铲屎工，清理茅坑。</i><br>
   	<p><strong>白玉：</strong>满怀希望就会所向披靡</p><br><i>莫？</i><br>
 	<p><strong>张宸宇：</strong></p><br><i>不是牢弟你有啥实力啊！别叫了 我直接就**</i><br>
-	<p><strong>彭钰涵：</strong></p><br><i>私宅</i><br>
- 	<p><strong>李立家：</strong></p><br><i>*</i>
+	<p><strong>彭钰涵：</strong>照片太小 框不住我们的六年.</p><br><i>私宅</i><br>
+ 	<p><strong>李立家：</strong>一路走好今天</p><br><i>*</i>
 
     <footer>
         © 2024 毕2018zcw<br>开发者 冯悦桐<br>留言收集 赵常宏<br>口头禅收集 冯旭东<br>人员统计表 金姿含<br>感谢全体同学配合与收集工作！
