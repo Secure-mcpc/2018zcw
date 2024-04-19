@@ -83,7 +83,7 @@
 
 <div>
 	<style>
-	    footer {
+	    i {
             color: #FF00FF;
             padding: 10px;
         }
