@@ -54,7 +54,7 @@
     <nav>
         <a href="#home">首页</a>
         <a href="#list">班级成员</a>
-	<a href="#yan">留言</a>
+	<a href="#yan">寄语与口头禅</a>
     </nav>
 <main>
         <h2 id="home">首页</h2>
@@ -122,12 +122,12 @@
 	<p><strong>张贯桀：</strong>In new school,take good care of yourseif.（在新的学校，照顾好自己。）</p><br><i>What's up?</i><br>
  	<p><strong>冯旭东：</strong>时光不老 我们不散</p><br><i>不（布）是！</i><br>
  	<p><strong>王雅涵：</strong>祝6年3班身体健康，万事如意，天天开心，心想事成。</p><br><i>你有*啊！</i><br>
-	<p><strong>毛浩晨：</strong>我是秦屎皇，V我50，让<a href="#top"><i>徐洋？</i></a>当厕所将军，占领茅坑，保卫厕所。</p><br><i>我是秦屎皇，V我50，当我占领六国，我封你为铲屎工，清理茅坑。</i><br>
+	<p><strong>毛浩晨：</strong></p><br><i>我是秦屎皇，V我50，当我占领六国，我封你为铲屎工，清理茅坑。</i><br>
   	<p><strong>白玉：</strong>满怀希望就会所向披靡</p><br><i>莫？</i><br>
 	<p><strong>张宸宇：</strong></p><br><i>不是牢弟你有啥实力啊！别叫了 我直接就**</i><br>
 	<p><strong>彭钰涵：</strong>照片太小 框不住我们的六年.</p><br><i>私宅</i><br>
  	<p><strong>李立家：</strong>一路走好今天</p><br><i>*</i>
 
     <footer>
-        © 2024 毕2018zcw<br>开发者 冯悦桐<br>留言收集 赵常宏<br>口头禅收集 冯旭东<br>人员统计表 金姿含<br>感谢全体同学配合与收集工作！
+        © 2024 2018zcw<br>开发者 冯悦桐<br>留言收集 赵常宏<br>口头禅收集 冯旭东<br>人员统计表 金姿含<br>感谢全体同学配合与收集工作！
     </footer>
