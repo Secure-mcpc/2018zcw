@@ -12,7 +12,6 @@
         }
         header {
             background-color: #FF9933;
-            color: #6633FF;
             padding: 20px;
             text-align: center;
         }
@@ -49,7 +48,7 @@
 <body>
 
     <header>
-        <h1 id="top">靖小2018级3班 毕业纪念</h1>
+        <h1 id="top"><font color="#6633FF">靖小2018届3班</font><br><font color="#0000FF">毕</font><font color="FF00FF">业</font><font color="AADDDD84">纪</font><font color="A0A0A0">念</font></h1>
     </header>
     <nav>
         <a href="#home">首页</a>
