@@ -12,7 +12,7 @@
         }
         header {
             background-color: #FF9933;
-            padding: 20px;
+            padding: 10px;
             text-align: center;
         }
         nav {
@@ -23,7 +23,7 @@
         nav a {
             color: #fff;
             text-decoration: none;
-            padding: 5px 10px;
+            padding: 0.125px 2.5px;
         }
         nav a:hover {
             background-color: #FF6633;
