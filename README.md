@@ -1,7 +1,7 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="UTF-8">
-	<link rel="icon" href="data:image/png;base64,UklGRjACAABXRUJQVlA4ICQCAAAwDgCdASogACAAPlEgi0QjoiEYDAYAOAUEtQBfsAglwCkAN4c/a79gPZD//5vAH+Q8gD+gcRv/D+c3/K/1X9iP7B7AvmT/K+4B/Iv5N/a/6r+5P+M///0AdQp+lba252fHM3vJ6Bimd2Xvpi6bxNXKXr1bqkM6ZOfkAAD+/uwtvbv7Kb9opjsWKuB5ZsQW//89YwsjR5MXCUqk4BFS78vnXPdMQoKXizmnxd0licGYAXvFQAwWLi+oMmg//9DzyaX8E0l+JPFDLOPBKdlWQVDP0O4ee0JBOi+/ij6EG/1ues/28+/quSaf9r9RJv6lH/xE0yHoB7TpldtF2WI2kS5oVlNQN68mPWchihg3pfNa4yqQHeeEdsaooZ53ds9t+CzjP+InqrzI5EYXppKwPIcJkXJ6J1v+TB74Z/QU7/eyU38HWszYv386mmsd85pjaTA8qFMM6W4wN+mbnqJuLb4G4AkGzWoqnu/qLhWNd6AbnZ6rTRVPWgGlMBHMY94doSrHPSxPw/yCtyKthZH/b3BNbvwD4f88xOJNvyx+f1IwAS9Yf4jxeUEtsowX/HTL32jenxrcYzTOcVh52PwKa+pWhJYxqWbSPm1Nm8MqJ6L3EDXo5PywltT/ect9jryDq5KabgQlm6v+Nk6b2R0JLuTZRNRrbVAV61DfhCe6OezMPWnW9Sn7NktYaToP+fyTo/vW1jWpf6I/+DB2QMCtg3vN9FGAAA==" sizes="32x32" type="image/png">
+	<link rel="icon" href="32x32.bmp"image/png">
 	<title>毕业纪念</title>
 	<style>
         body {
