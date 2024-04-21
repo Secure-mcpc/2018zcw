@@ -7,7 +7,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image:url('https://ts1.cn.mm.bing.net/th/id/R-C.0b7eac297c454cf8d9f8d97f0ca2d615?rik=xCINPLxJXLmkBg&riu=http%3a%2f%2fwww.51zxw.net%2fsucai%2f3ds%2ftietu%2fqiangzhi%2fqz024.jpg&ehk=9W%2fA%2fLEN2KAMZ6ONt3tOkNQW5vd7jI9ACbQ2enyupkM%3d&risl=&pid=ImgRaw&r=0&adlt=strict');
+            background-image:url('qiangzhi.jpg');
         }
         header {
             background-color: #FF9933;
