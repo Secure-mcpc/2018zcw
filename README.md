@@ -67,9 +67,9 @@
 <br><p>还记得我们</p><h3>第一次</h3><p>踏进校门</p>
 <br><h3>第一次</h3><p>写作业</p>
 <br><h3>第一次</h3><p>被老师批评</p>
-<br><h3>第一次</h3><p>第一次“借鉴”作业</p>
-<br><h3>第一次</h3><p>第一次偷吃零食</p>
-<br><audio controls>
+<br><h3>第一次</h3><p>“借鉴”作业</p>
+<br><h3>第一次</h3><p>偷吃零食</p>
+<br><i>这个音频不适合所有设备播放！</i><audio controls>
   <source src="http://m801.music.126.net/20240420222907/7e039c9e8b74fc3548d39c74daf722c0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15034086431/cf4d/db7a/dc27/a011dee9b51b1389ea8e79ed7e1fd345.mp3" type="audio/ogg">
 换个浏览器再听
 </audio>
