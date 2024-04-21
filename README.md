@@ -48,7 +48,7 @@
 <body>
 
     <header>
-        <h1 id="top"><font color="#6633FF">靖 江 路 小 学</font><br><font color="#6495ED">2018级3班</font><br><font color="A0A0A0">毕 </font><font color="FF00FF">业 </font><font color="AADDDD84">纪 </font><font color="FF0000">念</font></h1>
+        <h1 id="top"><font color="#6633FF">靖 江 路 小 学</font><br><font color="#6495ED">2018级3班</font><br><font color="A0A0A0">毕 </font><font color="FF00FF">业 </font><font color="AADDDD84">留 </font><font color="FF0000">念</font></h1>
     </header>
     <nav>
         <a href="#home">首页</a>
