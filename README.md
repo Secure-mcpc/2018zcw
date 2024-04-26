@@ -1,6 +1,7 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="UTF-8">
+	<link rel="icon" href="32x32.bmp" sizes="32x32" type="image/png">
 	<title>毕业纪念</title>
 	<style>
         body {
