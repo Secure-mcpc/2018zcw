@@ -78,7 +78,7 @@
         <img src="download.jpg">
 <div>
         <h2 id="list">班级成员</h2>
-        <p>赵常宏<img src="赵.png">张宇硕<img src="硕.png">杨文博<img src="文.png">金姿含<img src="金.png">冯跃<img src="yee.png">王书瑶<img src="书.png">徐洋<img src="洋.png">冯悦桐<img src="桐.png">李梓冉<img src="冉.png"><宋婉冰<img src="宋.png">张哲铭<img src="铭.png">杨明雪<img src="雪.png">牛艺璇<img src="牛.png">张思琪<img src="思.png">张恒瑞<img src="麻.png">马钰骁<img src="马.png">王艺霏<img src="艺">单过<img src="单.png">吁磊<img src="吁.png">王雨欣<img src="雨">白晗钰<img src="晗">陈梓晗<img src="陈.png">刘宇栋<img src="栋.png">申雨萱<img src="申.png">刘可昕<img src="昕.png">俞帅君<img src="俞.png">谢雨彤<img src="谢.png">田奕绫<img src="田.png">张贯桀<img src="贯.png">徐可馨<img src="馨.png">冯旭东<img src="东.png">王雅涵<img src="雅.png">毛浩晨<img src="毛.png">白玉<img src="玉.png">张宸宇<img src="宸.png">彭钰涵<img src="彭.png">李立家<img src="家.png">杨依辰<img src="依"></p><br>
+        <p>赵常宏<img src="赵.png">张宇硕<img src="硕.png">杨文博<img src="文.png">金姿含<img src="金.png">冯跃<img src="yee.png">王书瑶<img src="书.png">徐洋<img src="洋.png">冯悦桐<img src="桐.png">李梓冉<img src="冉.png"><宋婉冰<img src="宋.png">张哲铭<img src="铭.png">杨明雪<img src="雪.png">牛艺璇<img src="牛.png">张思琪<img src="思.png">张恒瑞<img src="麻.png">马钰骁<img src="马.png">王艺霏<img src="艺.png">单过<img src="单.png">吁磊<img src="吁.png">王雨欣<img src="雨.png">白晗钰<img src="晗.png">陈梓晗<img src="陈.png">刘宇栋<img src="栋.png">申雨萱<img src="申.png">刘可昕<img src="昕.png">俞帅君<img src="俞.png">谢雨彤<img src="谢.png">田奕绫<img src="田.png">张贯桀<img src="贯.png">徐可馨<img src="馨.png">冯旭东<img src="东.png">王雅涵<img src="雅.png">毛浩晨<img src="毛.png">白玉<img src="玉.png">张宸宇<img src="宸.png">彭钰涵<img src="彭.png">李立家<img src="家.png">杨依辰<img src="依.png"></p><br>
         <h3>以下是已转学的</h3>
         <br><p>刘建宇<br>李瑞宇<br>张宸溪</p>
     </div>
