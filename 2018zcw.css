@@ -39,3 +39,11 @@
             padding: 10px;
             text-align: center;
         }
+	a.download:hover{
+		backgroundcolor:red;
+		color:yellow;
+	}
+	a.download{
+		color:aqua;
+	}
+		
