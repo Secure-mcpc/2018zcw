@@ -40,7 +40,7 @@
             text-align: center;
         }
 	a.download:hover{
-		back-groundcolor:red;
+		background-color:red;
 		color:yellow;
 	}
 	a.download{
