@@ -39,3 +39,15 @@
             padding: 10px;
             text-align: center;
         }
+	.gr {
+	background-color: #ff6633;
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	}
