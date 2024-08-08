@@ -41,7 +41,9 @@
         }
 	.gr {
 	background-color: #ff6633;
+	border: none;
 	color: white;
+	text-decoration: none;
 	padding: 10px 20px;
 	text-align: center;
 	font-size: 16px;
