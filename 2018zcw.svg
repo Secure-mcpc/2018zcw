@@ -1,8 +1,13 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="32" height="32">
-
-<g transform="matrix(1.3333334 0 0 1.3333334 0 0)">
-    <image  x="0" y="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEDSURBVFhH7ZFBDoMwDAT9kB77Tx7He3rpB6hcaZFr7MSOabhwGAmSxTsJtK7rdiW3wC0wJEBELla+RUogUpIVCQtkTxfNhwSy5SByG12B0XJQEmh9vCzLASvHtOa4AiMnH5EoCbwezx2seRIpgV65LNbwviVRFpBDUba9aUcK6Dyw5qYFdDlnLYkpApwDlwhAAs9TBBgtoct1HpQEGH0LFjIn8WaaAkxPgtHFel9yigCGeyXeOpMW0Ojh/K6R+xKvnAkJtIb3aJUzXYFqeUngrJMP/QKrHCfyBrb23W+sxcjJZRmwchIrcxCoXHsELfEj8O9yICV2gVnlABJfgdnlgIi2D2BILv/SsSmGAAAAAElFTkSuQmCC" preserveAspectRatio="none" width="24" height="24"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">  <image id="image0" width="32" height="32" x="0" y="0"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAFVBMVEXDw8P///8AAAB/f3/t
+HCT/8gAisUwmgQXDAAAAAWJLR0QB/wIt3gAAAAd0SU1FB+gICQskJLoF3ZIAAAC1SURBVCjPlZBL
+CoQwDIZjIq6nNwgF9wVh1i7iBcTuhYHe/wiTqrG1i4EJpZAvf54AtTnnHn73D0DvuQbZQ1+K4on5
+Bgw0TUF5515FQEEDJgUQAbJUPHwlJlHQS4wyUwGyxLiJASaQuI5Rc/AC/ZLBNldg9X78DZqUpihC
+eLZV0A5Gz9GPRevlAIKSen3S9/7ogQxoGIZd++Mt8JxSPjLfAkyJ7ZiUvyGl3a4ZaoCXoBifgmL4
+BUTBI5Iu3/+rAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI0LTA4LTA5VDExOjM2OjM2KzAwOjAwvd36
+xQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNC0wOC0wOVQxMTozNjozNiswMDowMMyAQnkAAAAodEVY
+dGRhdGU6dGltZXN0YW1wADIwMjQtMDgtMDlUMTE6MzY6MzYrMDA6MDCblWOmAAAAAElFTkSuQmCC" />
 </svg>
