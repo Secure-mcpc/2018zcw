@@ -43,3 +43,7 @@
 	background-color: #ff6633;
 	color: white;
 	}
+	li a{
+		color: #fff;
+		text-decoration: none;
+	}
