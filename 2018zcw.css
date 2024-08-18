@@ -46,4 +46,8 @@
 	a.download{
 		color:blue;
 	}
-
+	li a{
+		color: #fff;
+		text-decoration: none;
+	}
+		
