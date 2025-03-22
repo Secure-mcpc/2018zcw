@@ -3,6 +3,7 @@
             margin: 0;
             padding: 0;
             background-image:url('https://secure-mcpc.github.io/2018zcw/墙纸.jpg');/*背景图*/
+	    background-color:#F0E68C;/*万一加载不出来呢*/
         }
         header {
 	    background-color: #FF9933;
